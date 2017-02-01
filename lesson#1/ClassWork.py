@@ -5,4 +5,3 @@ def myFunc():
     print('I am a function, this is your result a + b - '.join(x))
 
 myFunc()
-
