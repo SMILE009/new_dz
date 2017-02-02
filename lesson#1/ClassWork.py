@@ -8,3 +8,4 @@ def calc(argument, type)
 
 
 calc(a{5,5}, '*')
+myFunc()
