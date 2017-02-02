@@ -1,7 +1,10 @@
-def myFunc():
-    a = 5
-    b = 4
-    x = a + b
-    print('I am a function, this is your result a + b - '.join(x))
+def myFunc(name):
+    if name:
+        print('Hello ' + name)
+    else:
+        print('Hello anonymous')
+def calc(argument, type)
 
-myFunc()
+
+
+calc(a{5,5}, '*')
